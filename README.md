@@ -11,6 +11,7 @@ Menu bar tools that each do one job. Free, MIT licensed, no telemetry. Together 
 | [Switchboard](https://github.com/noterikkirillov8/switchboard) | Every Claude Code and Codex session at a glance, and which ones are waiting for you. |
 | [Sweep](https://github.com/noterikkirillov8/sweep) | Find rebuildable dev junk and move what you pick to the Trash. |
 | [Ledge](https://github.com/noterikkirillov8/ledge) | A drag-and-drop shelf: drop files, switch apps or Spaces, drag them out. |
+| [Pinch](https://github.com/noterikkirillov8/pinch) | Copy large, paste small: every screenshot, photo and video shrinks as you copy it. |
 | [Reel](https://github.com/noterikkirillov8/reel) | Record demos where every click becomes a smooth zoom. |
 | [Shutter](https://github.com/noterikkirillov8/shutter) | Hide menu bar icons behind one click. No permissions needed. |
 | [Vigil](https://github.com/noterikkirillov8/vigil) | Keep your Mac awake for a set time, even with the lid closed. It always ends. |
